@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.androidplot:androidplot-core:0.6.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/androidplot/androidplot-core/0.6.1-SNAPSHOT/androidplot-core-0.6.1-20140525.035149-14.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/androidplot/androidplot-core/0.6.1-SNAPSHOT/androidplot-core-0.6.1-20140525.035149-14-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/androidplot/androidplot-core/0.6.1-SNAPSHOT/androidplot-core-0.6.1-20140525.035149-14-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
